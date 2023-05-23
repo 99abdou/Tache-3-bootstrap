@@ -48,7 +48,7 @@ a{
 /* 1 Custom Css */
 
 ::-webkit-scrollbar{
-    width: 60px;
+    width: px;
 }
 
 ::-webkit-scroollbar-track{
